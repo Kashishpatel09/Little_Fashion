@@ -1,0 +1,124 @@
+{
+  "user": [
+    {
+      "id": "1709100499318",
+      "name": "kashish",
+      "email": "hsdsjhf@gmail.com",
+      "password": "1234",
+      "mobile": "09873525411",
+      "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ba/29/5c/img-worlds-of-adventure.jpg?w=1200&h=1200&s=1",
+      "status": "Unblock"
+    },
+    {
+      "id": "1709103585440",
+      "name": "nisarg",
+      "email": "nishu@gmail.com",
+      "password": "12345",
+      "mobile": "4275286285",
+      "img": "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg",
+      "status": "Unblock"
+    },
+    {
+      "id": "1709729322256",
+      "name": "kashish patel",
+      "email": "kashishp@gmail.com",
+      "password": "123",
+      "mobile": "5678904321",
+      "img": "https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "status": "Unblock"
+    }
+  ],
+  "contact": [
+    {
+      "id": "1709643790376",
+      "name": "Kashish Patel",
+      "email": "kashishnpatel2093@gmail.com",
+      "subject": "xyz",
+      "message": "good"
+    },
+    {
+      "id": "1709643829402",
+      "name": "het",
+      "email": "kashish@gmail.com",
+      "subject": "abc",
+      "message": "very good"
+    },
+    {
+      "id": "1709654548260",
+      "name": "Kashish Patel",
+      "email": "kashishnpatel2093@gmail.com",
+      "subject": "xyz",
+      "message": "jhfgffgfg"
+    },
+    {
+      "id": "1709698264172",
+      "name": "Kashish Patel",
+      "email": "kashishnpatel2093@gmail.com",
+      "subject": "xyz",
+      "message": "good"
+    }
+  ],
+  "feedback": [
+    {
+      "id": "1",
+      "Customer_Name": "jeeya",
+      "Review": "good",
+      "Ratingof10": 8
+    }
+  ],
+  "categories": [
+    {
+      "id": "1709697675516",
+      "Categories_Title": "female ",
+      "Name": "cloths"
+    },
+    {
+      "id": "1709731030874",
+      "Categories_Title": "male",
+      "Name": "jeans"
+    }
+  ],
+  "employee": [
+    {
+      "id": "1709012498879",
+      "Name": "sdf",
+      "BirthDate": "234567",
+      "ContactNumber": "345677",
+      "Email": "hsdsjhf@bf",
+      "Salary": "233546",
+      "Status": "dcbgng"
+    }
+  ],
+  "services": [
+    {
+      "id": "1708407752570",
+      "cate_id": "laptop",
+      "name": "xyz",
+      "desc": "gdashdasjkh"
+    },
+    {
+      "id": "1709013082187",
+      "cate_id": "sdxcfghsdf",
+      "name": "vhjm",
+      "desc": "nhlk"
+    },
+    {
+      "id": "1709697916630",
+      "cate_id": "1709697675516",
+      "name": "kjsdjks",
+      "desc": "good",
+      "price": "gsuh",
+      "img": "https://fcity.in/images/products/293181392/t08ja_512.jpg",
+      "status": "Available"
+    },
+    {
+      "id": "1709731076689",
+      "cate_id": "1709731030874",
+      "name": "ssd",
+      "desc": "bhhid",
+      "price": "1234",
+      "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/ba/29/5c/img-worlds-of-adventure.jpg?w=1200&h=1200&s=1",
+      "status": "Available"
+    }
+  ]
+}
