@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Little_Fashion/static/css/main.7eee306d.css",
+    "main.js": "/Little_Fashion/static/js/main.df63605d.js",
+    "static/js/936.f01378a7.chunk.js": "/Little_Fashion/static/js/936.f01378a7.chunk.js",
+    "static/js/592.9fc17e85.chunk.js": "/Little_Fashion/static/js/592.9fc17e85.chunk.js",
+    "static/media/logo.svg": "/Little_Fashion/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Little_Fashion/index.html",
+    "main.7eee306d.css.map": "/Little_Fashion/static/css/main.7eee306d.css.map",
+    "main.df63605d.js.map": "/Little_Fashion/static/js/main.df63605d.js.map",
+    "936.f01378a7.chunk.js.map": "/Little_Fashion/static/js/936.f01378a7.chunk.js.map",
+    "592.9fc17e85.chunk.js.map": "/Little_Fashion/static/js/592.9fc17e85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7eee306d.css",
+    "static/js/main.df63605d.js"
+  ]
+}
